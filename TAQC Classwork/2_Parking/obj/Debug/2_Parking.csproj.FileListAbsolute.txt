@@ -1,0 +1,7 @@
+C:\Users\kalya_chd13fj\source\repos\TAQC Classwork\2_Parking\bin\Debug\2_Parking.exe.config
+C:\Users\kalya_chd13fj\source\repos\TAQC Classwork\2_Parking\bin\Debug\2_Parking.exe
+C:\Users\kalya_chd13fj\source\repos\TAQC Classwork\2_Parking\bin\Debug\2_Parking.pdb
+C:\Users\kalya_chd13fj\source\repos\TAQC Classwork\2_Parking\obj\Debug\2_Parking.csproj.CoreCompileInputs.cache
+C:\Users\kalya_chd13fj\source\repos\TAQC Classwork\2_Parking\obj\Debug\2_Parking.exe
+C:\Users\kalya_chd13fj\source\repos\TAQC Classwork\2_Parking\obj\Debug\2_Parking.pdb
+C:\Users\kalya_chd13fj\source\repos\TAQC Classwork\2_Parking\obj\Debug\2_Parking.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\kalya_chd13fj\source\repos\6_HappyTickets\6_HappyTickets\bin\Debug\6_HappyTickets.exe.config
+C:\Users\kalya_chd13fj\source\repos\6_HappyTickets\6_HappyTickets\bin\Debug\6_HappyTickets.exe
+C:\Users\kalya_chd13fj\source\repos\6_HappyTickets\6_HappyTickets\bin\Debug\6_HappyTickets.pdb
+C:\Users\kalya_chd13fj\source\repos\6_HappyTickets\6_HappyTickets\obj\Debug\6_HappyTickets.csprojAssemblyReference.cache
+C:\Users\kalya_chd13fj\source\repos\6_HappyTickets\6_HappyTickets\obj\Debug\6_HappyTickets.csproj.CoreCompileInputs.cache
+C:\Users\kalya_chd13fj\source\repos\6_HappyTickets\6_HappyTickets\obj\Debug\6_HappyTickets.exe
+C:\Users\kalya_chd13fj\source\repos\6_HappyTickets\6_HappyTickets\obj\Debug\6_HappyTickets.pdb

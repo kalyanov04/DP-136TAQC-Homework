@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_SortTriangles", "3_SortTriangles\3_SortTriangles.csproj", "{144ACDC7-7A2D-460F-B69B-635EDB8EB468}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_SortTrianglesTests", "3_SortTrianglesTests\3_SortTrianglesTests.csproj", "{877DD300-5298-4D1D-8CA1-E17E4DA623DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{144ACDC7-7A2D-460F-B69B-635EDB8EB468}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{144ACDC7-7A2D-460F-B69B-635EDB8EB468}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{144ACDC7-7A2D-460F-B69B-635EDB8EB468}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{144ACDC7-7A2D-460F-B69B-635EDB8EB468}.Release|Any CPU.Build.0 = Release|Any CPU
+		{877DD300-5298-4D1D-8CA1-E17E4DA623DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{877DD300-5298-4D1D-8CA1-E17E4DA623DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{877DD300-5298-4D1D-8CA1-E17E4DA623DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{877DD300-5298-4D1D-8CA1-E17E4DA623DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5479E58-80BA-432E-9B52-C68C3D519A80}
+	EndGlobalSection
+EndGlobal

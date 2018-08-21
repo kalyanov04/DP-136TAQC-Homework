@@ -1,0 +1,7 @@
+C:\Users\kalya_chd13fj\source\repos\4_FileParser\4_FileParser\bin\Debug\4_FileParser.exe.config
+C:\Users\kalya_chd13fj\source\repos\4_FileParser\4_FileParser\bin\Debug\4_FileParser.exe
+C:\Users\kalya_chd13fj\source\repos\4_FileParser\4_FileParser\bin\Debug\4_FileParser.pdb
+C:\Users\kalya_chd13fj\source\repos\4_FileParser\4_FileParser\obj\Debug\4_FileParser.csprojAssemblyReference.cache
+C:\Users\kalya_chd13fj\source\repos\4_FileParser\4_FileParser\obj\Debug\4_FileParser.csproj.CoreCompileInputs.cache
+C:\Users\kalya_chd13fj\source\repos\4_FileParser\4_FileParser\obj\Debug\4_FileParser.exe
+C:\Users\kalya_chd13fj\source\repos\4_FileParser\4_FileParser\obj\Debug\4_FileParser.pdb

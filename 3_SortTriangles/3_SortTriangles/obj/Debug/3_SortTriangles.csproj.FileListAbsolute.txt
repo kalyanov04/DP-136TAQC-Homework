@@ -1,0 +1,7 @@
+C:\Users\kalya_chd13fj\source\repos\3_SortTriangles\3_SortTriangles\bin\Debug\3_SortTriangles.exe.config
+C:\Users\kalya_chd13fj\source\repos\3_SortTriangles\3_SortTriangles\bin\Debug\3_SortTriangles.exe
+C:\Users\kalya_chd13fj\source\repos\3_SortTriangles\3_SortTriangles\bin\Debug\3_SortTriangles.pdb
+C:\Users\kalya_chd13fj\source\repos\3_SortTriangles\3_SortTriangles\obj\Debug\3_SortTriangles.csprojAssemblyReference.cache
+C:\Users\kalya_chd13fj\source\repos\3_SortTriangles\3_SortTriangles\obj\Debug\3_SortTriangles.csproj.CoreCompileInputs.cache
+C:\Users\kalya_chd13fj\source\repos\3_SortTriangles\3_SortTriangles\obj\Debug\3_SortTriangles.exe
+C:\Users\kalya_chd13fj\source\repos\3_SortTriangles\3_SortTriangles\obj\Debug\3_SortTriangles.pdb

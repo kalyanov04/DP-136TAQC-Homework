@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_NumberToText", "5_NumberToText\5_NumberToText.csproj", "{50B61832-CC8E-4DCB-A261-46DDE5A943D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_NumberToTextTests", "5_NumberToTextTest\5_NumberToTextTests.csproj", "{BCF5655D-8EDA-44FD-9687-5F5F378A2937}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50B61832-CC8E-4DCB-A261-46DDE5A943D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50B61832-CC8E-4DCB-A261-46DDE5A943D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50B61832-CC8E-4DCB-A261-46DDE5A943D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50B61832-CC8E-4DCB-A261-46DDE5A943D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCF5655D-8EDA-44FD-9687-5F5F378A2937}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCF5655D-8EDA-44FD-9687-5F5F378A2937}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCF5655D-8EDA-44FD-9687-5F5F378A2937}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCF5655D-8EDA-44FD-9687-5F5F378A2937}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90CAB5C4-D8C7-4FC8-80CF-77FD4428BB2B}
+	EndGlobalSection
+EndGlobal

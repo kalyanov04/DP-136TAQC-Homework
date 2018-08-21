@@ -1,0 +1,7 @@
+C:\Users\kalya_chd13fj\source\repos\TAQC Classwork\3_Matrix\bin\Debug\3_Matrix.exe.config
+C:\Users\kalya_chd13fj\source\repos\TAQC Classwork\3_Matrix\bin\Debug\3_Matrix.exe
+C:\Users\kalya_chd13fj\source\repos\TAQC Classwork\3_Matrix\bin\Debug\3_Matrix.pdb
+C:\Users\kalya_chd13fj\source\repos\TAQC Classwork\3_Matrix\obj\Debug\3_Matrix.csprojAssemblyReference.cache
+C:\Users\kalya_chd13fj\source\repos\TAQC Classwork\3_Matrix\obj\Debug\3_Matrix.csproj.CoreCompileInputs.cache
+C:\Users\kalya_chd13fj\source\repos\TAQC Classwork\3_Matrix\obj\Debug\3_Matrix.exe
+C:\Users\kalya_chd13fj\source\repos\TAQC Classwork\3_Matrix\obj\Debug\3_Matrix.pdb

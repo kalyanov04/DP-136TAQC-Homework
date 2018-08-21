@@ -1,0 +1,7 @@
+C:\Users\kalya_chd13fj\source\repos\2_EnvelopeAnalysis\2_EnvelopeAnalysis\bin\Debug\2_EnvelopeAnalysis.exe.config
+C:\Users\kalya_chd13fj\source\repos\2_EnvelopeAnalysis\2_EnvelopeAnalysis\bin\Debug\2_EnvelopeAnalysis.exe
+C:\Users\kalya_chd13fj\source\repos\2_EnvelopeAnalysis\2_EnvelopeAnalysis\bin\Debug\2_EnvelopeAnalysis.pdb
+C:\Users\kalya_chd13fj\source\repos\2_EnvelopeAnalysis\2_EnvelopeAnalysis\obj\Debug\2_EnvelopeAnalysis.csprojAssemblyReference.cache
+C:\Users\kalya_chd13fj\source\repos\2_EnvelopeAnalysis\2_EnvelopeAnalysis\obj\Debug\2_EnvelopeAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\kalya_chd13fj\source\repos\2_EnvelopeAnalysis\2_EnvelopeAnalysis\obj\Debug\2_EnvelopeAnalysis.exe
+C:\Users\kalya_chd13fj\source\repos\2_EnvelopeAnalysis\2_EnvelopeAnalysis\obj\Debug\2_EnvelopeAnalysis.pdb

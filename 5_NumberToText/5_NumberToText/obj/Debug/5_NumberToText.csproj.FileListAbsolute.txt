@@ -1,0 +1,14 @@
+C:\Users\kalya_chd13fj\source\repos\TAQC Homework 1\5_NumberToText\bin\Debug\5_NumberToText.exe.config
+C:\Users\kalya_chd13fj\source\repos\TAQC Homework 1\5_NumberToText\bin\Debug\5_NumberToText.exe
+C:\Users\kalya_chd13fj\source\repos\TAQC Homework 1\5_NumberToText\bin\Debug\5_NumberToText.pdb
+C:\Users\kalya_chd13fj\source\repos\TAQC Homework 1\5_NumberToText\obj\Debug\5_NumberToText.csprojAssemblyReference.cache
+C:\Users\kalya_chd13fj\source\repos\TAQC Homework 1\5_NumberToText\obj\Debug\5_NumberToText.csproj.CoreCompileInputs.cache
+C:\Users\kalya_chd13fj\source\repos\TAQC Homework 1\5_NumberToText\obj\Debug\5_NumberToText.exe
+C:\Users\kalya_chd13fj\source\repos\TAQC Homework 1\5_NumberToText\obj\Debug\5_NumberToText.pdb
+C:\Users\kalya_chd13fj\source\repos\5_NumberToText\5_NumberToText\bin\Debug\5_NumberToText.exe.config
+C:\Users\kalya_chd13fj\source\repos\5_NumberToText\5_NumberToText\bin\Debug\5_NumberToText.exe
+C:\Users\kalya_chd13fj\source\repos\5_NumberToText\5_NumberToText\bin\Debug\5_NumberToText.pdb
+C:\Users\kalya_chd13fj\source\repos\5_NumberToText\5_NumberToText\obj\Debug\5_NumberToText.csprojAssemblyReference.cache
+C:\Users\kalya_chd13fj\source\repos\5_NumberToText\5_NumberToText\obj\Debug\5_NumberToText.csproj.CoreCompileInputs.cache
+C:\Users\kalya_chd13fj\source\repos\5_NumberToText\5_NumberToText\obj\Debug\5_NumberToText.exe
+C:\Users\kalya_chd13fj\source\repos\5_NumberToText\5_NumberToText\obj\Debug\5_NumberToText.pdb
